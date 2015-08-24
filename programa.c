@@ -7,5 +7,10 @@ int var = 0;
 int main(int argc, char const *argv[])
 {
 	printf("Hola Mundo, como estas");
+	
+	if (var == 0) {
+		printf("Buen TRabajo!");
+	}
+	
 	return 0;
 }
