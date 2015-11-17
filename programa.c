@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
 	printf("Hola Mundo, como estas");
 	
 	if (var == 0) {
-		printf("La clase de German es cool");
+		printf("Esta clase es cool");
 	}
 	
 	return 0;
